@@ -6,7 +6,7 @@ The features of the bedroom -
     Two point lights, one spotlight
     No textures, no curve
     A pendulum clock with a moving pendulum
-    A rotating fan (can be turned on/off)
+    A rotating fan (can be turned on/off and speed control)
     Change eyepoint and lookat point using keys
 The keys used are -
 
